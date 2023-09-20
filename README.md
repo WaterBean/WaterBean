@@ -10,7 +10,7 @@
 ### Contact to
 * e-mail : gkstnqls9@gmail.com
 * [blog](velog.io/@imnotpooh)
-* [instagram] (instagram.com/imnotpooh)
+* [instagram](instagram.com/imnotpooh)
 
 ### Skills
 ```
