@@ -9,8 +9,8 @@
 
 ### Contact to
 * e-mail : gkstnqls9@gmail.com
-* blog : velog.io/@imnotpooh
-* instagram : instagram.com/imnotpooh
+* [blog](velog.io/@imnotpooh)
+* [instagram] (instagram.com/imnotpooh)
 
 ### Skills
 ```
@@ -19,7 +19,7 @@
 * Programming
     * WEB(HTML/CSS/VanilaJS), Embedded(Arduino)
 * Design
-    * Graphic Design, Editorial Design
+    * Graphic Design
     * Editorial Design
     * UI/UX
 * 기타
@@ -52,7 +52,7 @@ _Last update on 09. 20 ( 수 )_
 
 **[iOS Daejeon Club](https://www.youtube.com/@user-sm2bi6vh7v) 3rd Meetup Organizer** (now)
 
-- 11월 11일 3rd meetup 준비중!
+- 11월 11일 3rd Meetup 준비중!
 
 **선린인터넷고등학교 111대 학생회장** (2016~2017)
 
@@ -69,7 +69,7 @@ _Last update on 09. 20 ( 수 )_
 
 
 
-# 프로젝트
+## 프로젝트
 
 ### AI 모델을 활용한 셀프사진관에서의 포즈추천 시스템 (23.03 ~ 23.12)
 * CNN 기반 포즈추천 AI Model 개발 및 웹 UI와 연결하여 셀프사진관 프로토타입 구축
