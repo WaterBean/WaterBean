@@ -6,6 +6,12 @@
 
 > 안녕하세요. iOS 개발자~~가 될 예정인~~ 한수빈입니다. Apple 좋아합니다. 사람들이 많이 사용해주고 편리하게 사용할 수 있는 앱을 만들고 싶습니다. 대전 사람은 아니지만, 대전권 개발자 커뮤니티 구축에도 관심 많습니다.
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FWaterBean%2Fhit-counter)](https://hits.seeyoufarm.com)
+
+언어 그래프 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WaterBean&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### Contact to
 * e-mail : gkstnqls9@gmail.com
